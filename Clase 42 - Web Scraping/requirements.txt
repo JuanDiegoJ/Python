@@ -1,0 +1,5 @@
+#Poder hacer solicitudes a internet y traer el contenido de firentes páginas web
+#.Jason, .xml, .html, 
+requests==2.13.0
+#Permite parcear el texto, obtiene el String de html y poderlo modificar y acceder a él como si fuera un árbol
+beautifulsoup4==4.5.3
